@@ -5,9 +5,9 @@ My entry for the make.fun **"Make the cutest picture"** competition
 
 ## The picture
 
-`entry.png` shows a cream kitten wearing a daisy crown and a mint-green
-knitted scarf, hugging a fluffy yellow chick cheek to cheek, both smiling
-at the camera against a pastel heart bokeh background. It is a
+`entry.png` shows a fluffy corgi puppy with big upright ears hugging a
+tiny snow-white kitten wearing a daisy crown, both with huge sparkling
+eyes, against a soft pink bokeh background. It is a
 1024 × 1024 JPEG (stored under the `entry.png` name; the gate reads the
 format from the magic bytes).
 
