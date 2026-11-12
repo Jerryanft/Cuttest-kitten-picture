@@ -5,8 +5,11 @@ My entry for the make.fun **"Make the cutest picture"** competition
 
 ## The picture
 
-`entry.png` is a soft, all-pink portrait of a white mother cat wearing a
-pink bow, holding her tiny kitten close. It is a 498 × 498 PNG.
+`entry.png` shows a cream kitten wearing a daisy crown and a mint-green
+knitted scarf, hugging a fluffy yellow chick cheek to cheek, both smiling
+at the camera against a pastel heart bokeh background. It is a
+1024 × 1024 JPEG (stored under the `entry.png` name; the gate reads the
+format from the magic bytes).
 
 ## What the program does
 
